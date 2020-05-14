@@ -71,7 +71,7 @@ Change this team member's name on the list into a link to their new profile page
 
 ---
 
-## 3. User Story: introducing Mert
+## 4. User Story: introducing Mert
 
 __As a site visitor, I want to learn more about Mert__
 
@@ -89,7 +89,7 @@ Change this team member's name on the list into a link to their new profile page
 
 ---
 
-## 4. User Story: introducing Joel
+## 5. User Story: introducing Joel
 
 __As a site visitor, I want to learn more about Joel__
 
@@ -107,6 +107,6 @@ Change this team member's name on the list into a link to their new profile page
 
 ---
 
-## 5. Finishing Touches
+## 6. Finishing Touches
 
 __As a perfectionist, I want everything perfect :)__
