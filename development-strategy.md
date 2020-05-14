@@ -77,7 +77,7 @@ __As a site visitor, I want to learn more about Mert__
 
 ### Repo
 
-This user story was developed on a brach called `3-mert`
+This user story was developed on a brach called `4-mert`
 
 ### mert.md
 
@@ -95,7 +95,7 @@ __As a site visitor, I want to learn more about Joel__
 
 ### Repo
 
-This user story was developed on a brach called `3-joel`
+This user story was developed on a brach called `5-joel`
 
 ### joel.md
 
