@@ -35,13 +35,13 @@ Wrote an introduction to the team and added a list with all of our names.
 
 ---
 
-## 2. User Story: introducing _name_
+## 2. User Story: introducing Akbel
 
-__As a site visitor, I want to learn more about *name*__
+__As a site visitor, I want to learn more about Akbel__
 
 ### Repo
 
-This user story was developed on a brach called `2-name`
+This user story was developed on a brach called `2-Akbel`
 
 ### name.md
 
@@ -53,15 +53,15 @@ Change this team member's name on the list into a link to their new profile page
 
 ---
 
-## 3. User Story: introducing _name_
+## 3. User Story: introducing Tiago
 
-__As a site visitor, I want to learn more about *name*__
+__As a site visitor, I want to learn more about Tiago__
 
 ### Repo
 
-This user story was developed on a brach called `3-name`
+This user story was developed on a brach called `3-tiago`
 
-### name.md
+### tiago.md
 
 Write a markdown bio page for this team member
 
@@ -71,7 +71,39 @@ Change this team member's name on the list into a link to their new profile page
 
 ---
 
-... complete this process once for each team member ...
+## 3. User Story: introducing Mert
+
+__As a site visitor, I want to learn more about Mert__
+
+### Repo
+
+This user story was developed on a brach called `3-mert`
+
+### mert.md
+
+Write a markdown bio page for this team member
+
+### README.md
+
+Change this team member's name on the list into a link to their new profile page
+
+---
+
+## 4. User Story: introducing Joel
+
+__As a site visitor, I want to learn more about Joel__
+
+### Repo
+
+This user story was developed on a brach called `3-joel`
+
+### joel.md
+
+Write a markdown bio page for this team member
+
+### README.md
+
+Change this team member's name on the list into a link to their new profile page
 
 ---
 
