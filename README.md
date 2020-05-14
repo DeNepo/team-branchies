@@ -3,6 +3,6 @@
 We always se branches, especially when swinging from trees
 
 - [Akbel](./akbel.md)
-- Tiago
+- [Tiago](./tiago.md)
 - Mert
 - Joel
